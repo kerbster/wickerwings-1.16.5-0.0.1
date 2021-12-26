@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "///",
+        "g g",
+        "/ /"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:blaze_rod"
+        },
+        "g": {
+            "item": "wickerwingsmod:dragon_wing"
+        }
+    },
+    "result": {
+        "item": "wickerwingsmod:dragon_wings",
+        "count": 1
+    }
+}

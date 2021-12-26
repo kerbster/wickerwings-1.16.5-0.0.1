@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "///",
+        "gg/",
+        "  g"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:blaze_rod"
+        },
+        "g": {
+            "item": "wickerwingsmod:scale_fabric"
+        }
+    },
+    "result": {
+        "item": "wickerwingsmod:dragon_wing",
+        "count": 1
+    }
+}

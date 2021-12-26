@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#i#",
+        "/ /",
+        "# #"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:coal"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "wickerwingsmod:wicker_wings",
+        "count": 1
+    }
+}

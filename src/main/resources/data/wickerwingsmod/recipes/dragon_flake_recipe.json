@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "DDD",
+        " F "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:lever"
+        },
+        "D": {
+            "item": "minecraft:coal"
+        },
+        "F": {
+            "item": "minecraft:flower_pot"
+        }
+    },
+    "result": {
+        "item": "wickerwingsmod:scale_flake",
+        "count": 2
+    }
+}
