@@ -8,11 +8,8 @@ modId="wickerwingsmod"
 version="0.0.1"
 displayName="Wicker Wings" 
 logoFile="wings.png"
-credits="Mommy's kids are pretty cool."
-authors="Mommy for making the mod. Elanna for some textures."
+credits=""
+authors=""
 description='''\
-Mommy's wicker wings mod. 
-Adds a weaker craftable elytra.
-Also has draggin wings.
-Adds a much stringer fire-proof dragon wing elytra.
+
 '''
